@@ -77,7 +77,6 @@ public class Client {
                         "\nServer_C => http://localhost:3002/cache/  =>\n" + caches.get(2).getAllValues()
         );
 
-
     }
 
     public static void rendezvousHash() {
